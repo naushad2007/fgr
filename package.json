@@ -44,7 +44,7 @@
     "colors": "^1.4.0",
     "escape-html": "^1.0.3",
     "lodash.defaultsdeep": "^4.6.1",
-    "sharp": "^0.29.1",
+    "sharp": "^0.30.5",
     "through2": "^4.0.2",
     "vinyl": "^2.2.1",
     "xml2js": "^0.4.23"
